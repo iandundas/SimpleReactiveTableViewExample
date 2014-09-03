@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "1965640DB8D7320FFB3B06BF"
+               BuildableName = "SimpleReactivePullToRefreshExample.app"
+               BlueprintName = "SimpleReactivePullToRefreshExample"
+               ReferencedContainer = "container:SimpleReactivePullToRefreshExample.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1965640DB8D7320FFB3B06BF"
+            BuildableName = "SimpleReactivePullToRefreshExample.app"
+            BlueprintName = "SimpleReactivePullToRefreshExample"
+            ReferencedContainer = "container:SimpleReactivePullToRefreshExample.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
